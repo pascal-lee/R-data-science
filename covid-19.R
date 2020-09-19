@@ -11,7 +11,7 @@ require(xts)
 require(lubridate)
 #install.packages("httpuv", dependencies = TRUE, INSTALL_opts = '--no-lock')
 
-.
+
 ## source data file
 filenams<-c('time_series_covid19_confirmed_global.csv',
             'time_series_covid19_deaths_global.csv',
